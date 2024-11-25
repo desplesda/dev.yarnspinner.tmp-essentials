@@ -1,11 +1,15 @@
 {
-    "author": "Yarn Spinner",
-    "dependencies": { "com.unity.ugui": "2.0.0" },
-    "description": "TextMesh Pro essential resources repackaged for Unity Package Manager.",
-    "displayName": "TextMesh Pro Essential Resources",
-    "keywords": [ "unity" ],
-    "license": "SEE LICENSE IN LICENSE",
-    "name": "dev.yarnspinner.tmp-essentials",
-    "unity": "2022.1",
-    "version": "1.0.0"
-  }
+  "author": "Yarn Spinner",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "description": "TextMesh Pro essential resources repackaged for Unity Package Manager.",
+  "displayName": "TextMesh Pro Essential Resources",
+  "keywords": [
+    "unity"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "name": "dev.yarnspinner.tmp-essentials",
+  "unity": "2022.1",
+  "version": "2.0.0"
+}
