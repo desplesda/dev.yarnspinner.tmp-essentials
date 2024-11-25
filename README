@@ -1,0 +1,8 @@
+This is a Unity package containing Essential Resources from TextMesh Pro.
+
+Based on https://github.com/keijiro/tmp-essentials/ by Keijiro Takahashi, and adapted for Unity 2022.
+
+https://docs.unity3d.com/Packages/com.unity.textmeshpro@latest
+
+This package is solely made for eliminating the need for importing these
+Essential Resources as project assets.
